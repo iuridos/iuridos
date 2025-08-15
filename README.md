@@ -45,7 +45,7 @@ Busco sempre me aprimorar tecnicamente e desenvolver projetos que unam **design 
 
 - [📎 LinkedIn](https://www.linkedin.com/in/iuri-pereira-dos-santos-853483113/)
 - ✉️ E-mail: **iuridos2020@gmail.com**
-- 🧠 Portfólio (em breve)
+- 🧠 Portfólio : https://iuridos.github.io/site-pessoal-2025/
 
 ---
 
